@@ -1,5 +1,7 @@
 # 💫 About Me:
-Hello everyone! I’m Binoy Halder, a passionate learner with a deep interest in Artificial Intelligence and Machine Learning. After completing my diploma in Computer Science from Uluberia Government Polytechnic, I decided to expand my horizons by joining Galgotias University for my B.Tech. I believe hard work and consistency are the keys to success, and I’m always eager to take on new challenges that help me grow both personally and professionally.
+My name is Binoy Haldar. I am from Malda, West Bengal.
+I am currently pursuing my B.Tech in Computer Science and Engineering with a specialization in Artificial Intelligence and Machine Learning at Galgotias University. I have also completed a Diploma in Computer Science, which helped me build a strong foundation in programming and core concepts.
+I have hands-on knowledge of Java, C, SQL, HTML, CSS, and JavaScript, and I am actively improving my Data Structures and Algorithms skills. I enjoy solving problems, learning new technologies, and working on real-world projects.
 
 
 ## 🌐 Socials:
